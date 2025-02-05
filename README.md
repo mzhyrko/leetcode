@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mzhyrko/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/mzhyrko/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 ## Sliding Window
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/mzhyrko/leetcode/tree/master/0065-valid-number) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mzhyrko/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mzhyrko/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mzhyrko/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
