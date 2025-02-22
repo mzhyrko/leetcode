@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/mzhyrko/leetcode/tree/master/0065-valid-number) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mzhyrko/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mzhyrko/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mzhyrko/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -117,4 +118,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mzhyrko/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
