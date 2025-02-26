@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mzhyrko/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mzhyrko/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mzhyrko/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mzhyrko/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/mzhyrko/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2448-count-number-of-bad-pairs](https://github.com/mzhyrko/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mzhyrko/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/mzhyrko/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mzhyrko/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/mzhyrko/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2434-design-a-number-container-system](https://github.com/mzhyrko/leetcode/tree/master/2434-design-a-number-container-system) |
@@ -86,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/mzhyrko/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
 | [2434-design-a-number-container-system](https://github.com/mzhyrko/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
+| [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
 | [2434-design-a-number-container-system](https://github.com/mzhyrko/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Math
 |  |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mzhyrko/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mzhyrko/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/mzhyrko/leetcode/tree/master/3447-clear-digits) |
@@ -158,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mzhyrko/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mzhyrko/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
 <!---LeetCode Topics End-->
