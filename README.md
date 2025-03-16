@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0266-palindrome-permutation](https://github.com/mzhyrko/leetcode/tree/master/0266-palindrome-permutation) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mzhyrko/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mzhyrko/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/mzhyrko/leetcode/tree/master/0065-valid-number) |
+| [0266-palindrome-permutation](https://github.com/mzhyrko/leetcode/tree/master/0266-palindrome-permutation) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mzhyrko/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/mzhyrko/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/mzhyrko/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0266-palindrome-permutation](https://github.com/mzhyrko/leetcode/tree/master/0266-palindrome-permutation) |
 <!---LeetCode Topics End-->
