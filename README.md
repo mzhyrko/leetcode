@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-maximum-ascending-subarray-sum](https://github.com/mzhyrko/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/mzhyrko/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mzhyrko/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2308-divide-array-into-equal-pairs](https://github.com/mzhyrko/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/mzhyrko/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mzhyrko/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/mzhyrko/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mzhyrko/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/mzhyrko/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
+| [2308-divide-array-into-equal-pairs](https://github.com/mzhyrko/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/mzhyrko/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/mzhyrko/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mzhyrko/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1160-letter-tile-possibilities](https://github.com/mzhyrko/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/mzhyrko/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mzhyrko/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2308-divide-array-into-equal-pairs](https://github.com/mzhyrko/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/mzhyrko/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mzhyrko/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
@@ -222,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0266-palindrome-permutation](https://github.com/mzhyrko/leetcode/tree/master/0266-palindrome-permutation) |
+| [2308-divide-array-into-equal-pairs](https://github.com/mzhyrko/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
