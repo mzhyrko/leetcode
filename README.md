@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0065-valid-number](https://github.com/mzhyrko/leetcode/tree/master/0065-valid-number) |
 | [0266-palindrome-permutation](https://github.com/mzhyrko/leetcode/tree/master/0266-palindrome-permutation) |
+| [1051-shortest-way-to-form-string](https://github.com/mzhyrko/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mzhyrko/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/mzhyrko/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mzhyrko/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1051-shortest-way-to-form-string](https://github.com/mzhyrko/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mzhyrko/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mzhyrko/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/mzhyrko/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0985-bag-of-tokens](https://github.com/mzhyrko/leetcode/tree/master/0985-bag-of-tokens) |
+| [1051-shortest-way-to-form-string](https://github.com/mzhyrko/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mzhyrko/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0985-bag-of-tokens](https://github.com/mzhyrko/leetcode/tree/master/0985-bag-of-tokens) |
+| [1051-shortest-way-to-form-string](https://github.com/mzhyrko/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mzhyrko/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/mzhyrko/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mzhyrko/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
