@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/mzhyrko/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mzhyrko/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mzhyrko/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/mzhyrko/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mzhyrko/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0985-bag-of-tokens](https://github.com/mzhyrko/leetcode/tree/master/0985-bag-of-tokens) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mzhyrko/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/mzhyrko/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mzhyrko/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mzhyrko/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mzhyrko/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/mzhyrko/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mzhyrko/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/mzhyrko/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mzhyrko/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
