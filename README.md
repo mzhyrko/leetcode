@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mzhyrko/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/mzhyrko/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mzhyrko/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/mzhyrko/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mzhyrko/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/mzhyrko/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mzhyrko/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mzhyrko/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1051-shortest-way-to-form-string](https://github.com/mzhyrko/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mzhyrko/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2280-count-good-triplets-in-an-array](https://github.com/mzhyrko/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mzhyrko/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/mzhyrko/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/mzhyrko/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
+| [2280-count-good-triplets-in-an-array](https://github.com/mzhyrko/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/mzhyrko/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Math
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/mzhyrko/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
+| [2280-count-good-triplets-in-an-array](https://github.com/mzhyrko/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -280,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/mzhyrko/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/mzhyrko/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -318,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/mzhyrko/leetcode/tree/master/2050-count-good-numbers) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/mzhyrko/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
