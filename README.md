@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/mzhyrko/leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/mzhyrko/leetcode/tree/master/0065-valid-number) |
 | [0266-palindrome-permutation](https://github.com/mzhyrko/leetcode/tree/master/0266-palindrome-permutation) |
 | [0768-partition-labels](https://github.com/mzhyrko/leetcode/tree/master/0768-partition-labels) |
