@@ -7,7 +7,7 @@ public:
         for(int r=0, l=0; r<s; r++){
             const int x=nums[r];
             if (x<minK ||x>maxK){
-                l=r+1; // move l to r+1
+                l=r+1;
                 continue;
             }
             if (x==maxK) maxi=r;
