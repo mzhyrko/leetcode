@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mzhyrko/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/mzhyrko/leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/mzhyrko/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/mzhyrko/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mzhyrko/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/mzhyrko/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/mzhyrko/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/mzhyrko/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3817-maximum-containers-on-a-ship](https://github.com/mzhyrko/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Stack
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mzhyrko/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/mzhyrko/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/mzhyrko/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/mzhyrko/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mzhyrko/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/mzhyrko/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/mzhyrko/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/mzhyrko/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
