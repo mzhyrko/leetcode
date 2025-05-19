@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mzhyrko/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/mzhyrko/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mzhyrko/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/mzhyrko/leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mzhyrko/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mzhyrko/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mzhyrko/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-finding-3-digit-even-numbers](https://github.com/mzhyrko/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mzhyrko/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mzhyrko/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/mzhyrko/leetcode/tree/master/3321-type-of-triangle) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mzhyrko/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2649-count-total-number-of-colored-cells](https://github.com/mzhyrko/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mzhyrko/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/mzhyrko/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/mzhyrko/leetcode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/mzhyrko/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mzhyrko/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/mzhyrko/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
