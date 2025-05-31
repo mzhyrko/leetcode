@@ -457,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mzhyrko/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Linked List
+|  |
+| ------- |
+| [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/mzhyrko/leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 <!---LeetCode Topics End-->
