@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mzhyrko/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mzhyrko/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mzhyrko/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mzhyrko/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/mzhyrko/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/mzhyrko/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mzhyrko/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/mzhyrko/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mzhyrko/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/mzhyrko/leetcode/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mzhyrko/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/mzhyrko/leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/mzhyrko/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mzhyrko/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2434-design-a-number-container-system](https://github.com/mzhyrko/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mzhyrko/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mzhyrko/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mzhyrko/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mzhyrko/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mzhyrko/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/mzhyrko/leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mzhyrko/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mzhyrko/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mzhyrko/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/mzhyrko/leetcode/tree/master/3447-clear-digits) |
 ## Data Stream
 |  |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mzhyrko/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/mzhyrko/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/mzhyrko/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mzhyrko/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/mzhyrko/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
