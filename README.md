@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mzhyrko/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mzhyrko/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mzhyrko/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mzhyrko/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mzhyrko/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/mzhyrko/leetcode/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mzhyrko/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mzhyrko/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1051-shortest-way-to-form-string](https://github.com/mzhyrko/leetcode/tree/master/1051-shortest-way-to-form-string) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mzhyrko/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mzhyrko/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2280-count-good-triplets-in-an-array](https://github.com/mzhyrko/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mzhyrko/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mzhyrko/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/mzhyrko/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mzhyrko/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0985-bag-of-tokens](https://github.com/mzhyrko/leetcode/tree/master/0985-bag-of-tokens) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mzhyrko/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mzhyrko/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mzhyrko/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mzhyrko/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/mzhyrko/leetcode/tree/master/0868-push-dominoes) |
 | [0985-bag-of-tokens](https://github.com/mzhyrko/leetcode/tree/master/0985-bag-of-tokens) |
 | [1051-shortest-way-to-form-string](https://github.com/mzhyrko/leetcode/tree/master/1051-shortest-way-to-form-string) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mzhyrko/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mzhyrko/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mzhyrko/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/mzhyrko/leetcode/tree/master/2551-apply-operations-to-an-array) |
