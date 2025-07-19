@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mzhyrko/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/mzhyrko/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mzhyrko/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mzhyrko/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/mzhyrko/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1366-first-unique-number](https://github.com/mzhyrko/leetcode/tree/master/1366-first-unique-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mzhyrko/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mzhyrko/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/mzhyrko/leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mzhyrko/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mzhyrko/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mzhyrko/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mzhyrko/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mzhyrko/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mzhyrko/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mzhyrko/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mzhyrko/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/mzhyrko/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -517,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/mzhyrko/leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mzhyrko/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
