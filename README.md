@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/mzhyrko/leetcode/tree/master/0112-path-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mzhyrko/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/mzhyrko/leetcode/tree/master/0112-path-sum) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mzhyrko/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mzhyrko/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/mzhyrko/leetcode/tree/master/0112-path-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mzhyrko/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mzhyrko/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/mzhyrko/leetcode/tree/master/0112-path-sum) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mzhyrko/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mzhyrko/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mzhyrko/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
