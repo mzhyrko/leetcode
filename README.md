@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0038-count-and-say](https://github.com/mzhyrko/leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/mzhyrko/leetcode/tree/master/0065-valid-number) |
+| [0165-compare-version-numbers](https://github.com/mzhyrko/leetcode/tree/master/0165-compare-version-numbers) |
 | [0266-palindrome-permutation](https://github.com/mzhyrko/leetcode/tree/master/0266-palindrome-permutation) |
 | [0768-partition-labels](https://github.com/mzhyrko/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/mzhyrko/leetcode/tree/master/0868-push-dominoes) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mzhyrko/leetcode/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/mzhyrko/leetcode/tree/master/0165-compare-version-numbers) |
 | [0768-partition-labels](https://github.com/mzhyrko/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/mzhyrko/leetcode/tree/master/0868-push-dominoes) |
 | [0985-bag-of-tokens](https://github.com/mzhyrko/leetcode/tree/master/0985-bag-of-tokens) |
