@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-maximum-ascending-subarray-sum](https://github.com/mzhyrko/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mzhyrko/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/mzhyrko/leetcode/tree/master/2003-distinct-numbers-in-each-subarray) |
+| [2058-concatenation-of-array](https://github.com/mzhyrko/leetcode/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mzhyrko/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mzhyrko/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mzhyrko/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mzhyrko/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/mzhyrko/leetcode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/mzhyrko/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mzhyrko/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/mzhyrko/leetcode/tree/master/2551-apply-operations-to-an-array) |
