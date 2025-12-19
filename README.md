@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mzhyrko/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mzhyrko/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mzhyrko/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mzhyrko/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/mzhyrko/leetcode/tree/master/1580-shuffle-the-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mzhyrko/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mzhyrko/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1364-tuple-with-same-product](https://github.com/mzhyrko/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1366-first-unique-number](https://github.com/mzhyrko/leetcode/tree/master/1366-first-unique-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mzhyrko/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mzhyrko/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/mzhyrko/leetcode/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/mzhyrko/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1903-design-most-recently-used-queue](https://github.com/mzhyrko/leetcode/tree/master/1903-design-most-recently-used-queue) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mzhyrko/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/mzhyrko/leetcode/tree/master/0645-set-mismatch) |
 | [0985-bag-of-tokens](https://github.com/mzhyrko/leetcode/tree/master/0985-bag-of-tokens) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mzhyrko/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mzhyrko/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mzhyrko/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mzhyrko/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -547,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mzhyrko/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mzhyrko/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
